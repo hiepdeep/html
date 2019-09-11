@@ -1,0 +1,3 @@
+<form autocomplete='on' expr:action='data:blog.searchUrl' method='get' role='search'>
+  <input autocomplete='on' name='q' placeholder='Tìm kiếm từ khóa...' type='text'/>
+</form>
